@@ -22,7 +22,7 @@ public class Main {
 		System.out.println("Step 0:" + line);
 		try {
 			for (int i = 1; i <= 10; i++) {
-
+			//for (int i = 1; i <= 4; i++) {
 				line.process();
 
 				System.out.println("Step " + i + ":" + line);
